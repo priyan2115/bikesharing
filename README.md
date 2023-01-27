@@ -14,7 +14,10 @@ Tableau
   ![pandas3](pandas3.png)
 
 * Deliverable 2: Create Visualizations for the Trip Analysis
-![image](path)
+![_Bikesharing_challenge_story (1)](_Bikesharing_challenge_story (1).png)
+![_Bikesharing_challenge_story (1)](_Bikesharing_challenge_story (1).png)
+![_Bikesharing_challenge_story (1)](_Bikesharing_challenge_story (1).png)
+![_Bikesharing_challenge_story (1)](_Bikesharing_challenge_story (1).png)
 * Deliverable 3: Create a Story and Report for the Final Presentation
 * Extra: A written report on Des Moines - Bike Sharing Project Analysis README.md.
 # Results
