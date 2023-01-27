@@ -19,7 +19,7 @@ Tableau
 ### Create the Checkout Times for Users Viz
 **In this visualization, you’ll graph the length of time that bikes are checked out for all riders.
 Your final results should look similar to the following image:**
-![pandas1](pandas1.png)
+![Checkout Times for Users](Checkout Times for Users.png)
 [Link TO Dashboard1](https://public.tableau.com/views/tripDashboard2/UTBYGenderByWeekdayD?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 [Link TO Dashboard2](https://public.tableau.com/views/tripDashboard1/TripsbyWfEHD?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
