@@ -18,34 +18,29 @@ Tableau
 * # Deliverable 2: Create Visualizations for the Trip Analysis
 ### Create the Checkout Times for Users Viz
 **In this visualization, you’ll graph the length of time that bikes are checked out for all riders.
-
 Our final results should look similar to the following image:**
 
 ![Checkout_Times_for_Users](Checkout_Times_for_Users.png)
 ### Create the Checkout Times by Gender Viz
 **In this visualization, you’ll graph the length of time that bikes are checked out for each gender.
- 
  Our final results should look similar to the following image:**
 
 ![Checkout_Times_by_Gender](Checkout_Times_by_Gender.png)
 
 ### Create the Trips by Weekday for Each Hour Viz
 **In this visualization, we’ll graph the number of bike trips by weekday for each hour of the day as a heatmap.
-
 Our final results should look similar to the following image:**
 
 ![Trips_by_Weekday_for_Each_Hour](Trips_by_Weekday_for_Each_Hour.png)
 
 ### Create the Trips by Gender (Weekday per Hour) Viz
-** this visualization, you’ll graph the number of bike trips by gender for each hour of each day of the week as a heatmap.
-
+**This visualization, you’ll graph the number of bike trips by gender for each hour of each day of the week as a heatmap.
 Result should look like following Image:**
 
 ![Trips_by_Gender_(Weekday per Hour)](Trips_by_Gender_(Weekday per Hour).png)
 
 ### Create the User Trips by Gender by Weekday Viz
 **In this visualization, you’ll graph the number of bike trips by gender for each hour for each day of the week as a heatmap.
-
 Result should looks like the following Image:**
 
 ![Checkout_Times_by_Gender](Checkout_Times_by_Gender.png)
@@ -54,7 +49,7 @@ Result should looks like the following Image:**
 [Link TO Dashboard2](https://public.tableau.com/views/tripDashboard1/TripsbyWfEHD?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
-* # Deliverable 3: Create a Story and Report for the Final Presentation
+ # Deliverable 3: Create a Story and Report for the Final Presentation
     **HERE WE PRESENT LINK FOR THE STORY OF 5 VISUALIZATION OF DELIVERABLE 2.**
     
     * [LINK TO DELIVERABLE2 STORY](https://public.tableau.com/views/Bikesharing_challenge_story/Bikesharing_challenge_story?:language=en-US&:display_count=n&:origin=viz_share_link)
