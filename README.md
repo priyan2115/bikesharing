@@ -14,7 +14,7 @@ Tableau
   ![pandas3](pandas3.png)
 
 * Deliverable 2: Create Visualizations for the Trip Analysis
-![_Bikesharing_challenge_story](_Bikesharing_challenge_story (1).png)
+![_Bikesharing_challenge_story](_Bikesharing_challenge_story.png)
 ![_Bikesharing_challenge_story (1)](_Bikesharing_challenge_story (1).png)
 ![_Bikesharing_challenge_story (1)](_Bikesharing_challenge_story (1).png)
 ![_Bikesharing_challenge_story (1)](_Bikesharing_challenge_story (1).png)
