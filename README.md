@@ -18,14 +18,38 @@ Tableau
 * # Deliverable 2: Create Visualizations for the Trip Analysis
 ### Create the Checkout Times for Users Viz
 **In this visualization, you’ll graph the length of time that bikes are checked out for all riders.
-Your final results should look similar to the following image:**
 
-![Checkout Times for Users](Checkout Times for Users.png)
+Our final results should look similar to the following image:**
+
+![Checkout_Times_for_Users](Checkout_Times_for_Users.png)
 ### Create the Checkout Times by Gender Viz
 **In this visualization, you’ll graph the length of time that bikes are checked out for each gender.
-Your final results should look similar to the following image:**
+ 
+ Our final results should look similar to the following image:**
 
-![Checkout Times by Gender](Checkout Times by Gender.png)
+![Checkout_Times_by_Gender](Checkout_Times_by_Gender.png)
+
+### Create the Trips by Weekday for Each Hour Viz
+**In this visualization, we’ll graph the number of bike trips by weekday for each hour of the day as a heatmap.
+
+Our final results should look similar to the following image:**
+
+![Checkout_Times_by_Gender](Checkout_Times_by_Gender.png)
+
+### Create the Trips by Gender (Weekday per Hour) Viz
+** this visualization, you’ll graph the number of bike trips by gender for each hour of each day of the week as a heatmap.
+
+Result should look like following Image:**
+
+![Checkout_Times_by_Gender](Checkout_Times_by_Gender.png)
+
+### Create the User Trips by Gender by Weekday Viz
+**In this visualization, you’ll graph the number of bike trips by gender for each hour for each day of the week as a heatmap.
+
+Result should looks like the following Image:**
+
+![Checkout_Times_by_Gender](Checkout_Times_by_Gender.png)
+
 [Link TO Dashboard1](https://public.tableau.com/views/tripDashboard2/UTBYGenderByWeekdayD?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 [Link TO Dashboard2](https://public.tableau.com/views/tripDashboard1/TripsbyWfEHD?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
