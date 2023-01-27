@@ -46,7 +46,9 @@ Result should looks like the following Image:**
 ![User_Trips_by_Gender_by_Weekday](User_Trips_by_Gender_by_Weekday.png)
 
 **Following two are the dashboard link for challenge.**
+
 [Link TO Dashboard1](https://public.tableau.com/views/tripDashboard2/UTBYGenderByWeekdayD?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 [Link TO Dashboard2](https://public.tableau.com/views/tripDashboard1/TripsbyWfEHD?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
