@@ -17,7 +17,9 @@ Tableau
 * Extra: A written report on Des Moines - Bike Sharing Project Analysis README.md.
 # Results
 * # Deliverable 2: Create Visualizations for the Trip Analysis
-[link to Dashboard](https://public.tableau.com/views/Bikesharing_challenge_story/Bikesharing_challenge_story?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Link TO Dashboard1](https://public.tableau.com/views/tripDashboard2/UTBYGenderByWeekdayD?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Link TO Dashboard2](https://public.tableau.com/views/tripDashboard1/TripsbyWfEHD?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[link to Dashboard Story](https://public.tableau.com/views/Bikesharing_challenge_story/Bikesharing_challenge_story?:language=en-US&:display_count=n&:origin=viz_share_link)
 ![_Bikesharing_challenge_story (1)](_Bikesharing_challenge_story (1).png)
 ![_Bikesharing_challenge_story (1)](_Bikesharing_challenge_story (1).png)
 ![_Bikesharing_challenge_story (1)](_Bikesharing_challenge_story (1).png)
