@@ -43,19 +43,31 @@ Result should look like following Image:**
 **In this visualization, you’ll graph the number of bike trips by gender for each hour for each day of the week as a heatmap.
 Result should looks like the following Image:**
 
-![Checkout_Times_by_Gender](Checkout_Times_by_Gender.png)
+![User_Trips_by_Gender_by_Weekday](User_Trips_by_Gender_by_Weekday.png)
 
+**Following two are the dashboard link for challenge.**
 [Link TO Dashboard1](https://public.tableau.com/views/tripDashboard2/UTBYGenderByWeekdayD?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 [Link TO Dashboard2](https://public.tableau.com/views/tripDashboard1/TripsbyWfEHD?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
  # Deliverable 3: Create a Story and Report for the Final Presentation
-    **HERE WE PRESENT LINK FOR THE STORY OF 5 VISUALIZATION OF DELIVERABLE 2.**
+ ** 1.There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour.
+ 
+   2.There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and        gender.
+   
+   3.A heatmap is created showing the number of bike trips for each hour of each day of the week.
+   
+   4.A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender.
+   
+   5.A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender. **
+   
+  **HERE WE PRESENT LINK FOR THE STORY OF 5 VISUALIZATION OF DELIVERABLE 2.**
     
-    * [LINK TO DELIVERABLE2 STORY](https://public.tableau.com/views/Bikesharing_challenge_story/Bikesharing_challenge_story?:language=en-US&:display_count=n&:origin=viz_share_link)
+ [LINK TO DELIVERABLE2 STORY](https://public.tableau.com/views/Bikesharing_challenge_story/Bikesharing_challenge_story?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+
+# Summary
     **HERE WE PRESENT THE LINK OF 2 VISUALIZATION FROM MODULE.**
    * [LINK FOR MODULE STORY](https://public.tableau.com/views/NYCStory_16747677190670/NYCStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-* # Extra: A written report on Des Moines - Bike Sharing Project Analysis README.md.
-# Summary
+
