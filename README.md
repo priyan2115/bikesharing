@@ -13,14 +13,24 @@ Tableau
   ![pandas2](pandas2.png)
   ![pandas3](pandas3.png)
   
-* Deliverable 3: Create a Story and Report for the Final Presentation
-* Extra: A written report on Des Moines - Bike Sharing Project Analysis README.md.
+
 # Results
 * # Deliverable 2: Create Visualizations for the Trip Analysis
+### Create the Checkout Times for Users Viz
+**In this visualization, you’ll graph the length of time that bikes are checked out for all riders.
+Your final results should look similar to the following image:**
+![pandas1](pandas1.png)
 [Link TO Dashboard1](https://public.tableau.com/views/tripDashboard2/UTBYGenderByWeekdayD?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 [Link TO Dashboard2](https://public.tableau.com/views/tripDashboard1/TripsbyWfEHD?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-[link to Dashboard Story](https://public.tableau.com/views/Bikesharing_challenge_story/Bikesharing_challenge_story?:language=en-US&:display_count=n&:origin=viz_share_link)
-![_Bikesharing_challenge_story (1)](_Bikesharing_challenge_story (1).png)
-![_Bikesharing_challenge_story (1)](_Bikesharing_challenge_story (1).png)
-![_Bikesharing_challenge_story (1)](_Bikesharing_challenge_story (1).png)
+
+
+* # Deliverable 3: Create a Story and Report for the Final Presentation
+    **HERE WE PRESENT LINK FOR THE STORY OF 5 VISUALIZATION OF DELIVERABLE 2.**
+    
+    * [LINK TO DELIVERABLE2 STORY](https://public.tableau.com/views/Bikesharing_challenge_story/Bikesharing_challenge_story?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+    **HERE WE PRESENT THE LINK OF 2 VISUALIZATION FROM MODULE.**
+   * [LINK FOR MODULE STORY](https://public.tableau.com/views/NYCStory_16747677190670/NYCStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+* # Extra: A written report on Des Moines - Bike Sharing Project Analysis README.md.
 # Summary
