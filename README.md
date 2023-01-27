@@ -41,7 +41,7 @@ Our final results should look similar to the following image:**
 
 Result should look like following Image:**
 
-![Checkout_Times_by_Gender](Checkout_Times_by_Gender.png)
+![Trips_by_Gender_(Weekday per Hour)](Trips_by_Gender_(Weekday per Hour).png)
 
 ### Create the User Trips by Gender by Weekday Viz
 **In this visualization, you’ll graph the number of bike trips by gender for each hour for each day of the week as a heatmap.
